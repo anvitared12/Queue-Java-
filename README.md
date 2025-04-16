@@ -4,5 +4,6 @@ This repository contains:
    <li>Implementation of queue using Linked List</li>
    <li>Implementation of circular queue using Array</li>
    <li>Implementation of circular queue using Linked List</li>
+   <li>Implementing queue through library</li>
 
 </ol>
