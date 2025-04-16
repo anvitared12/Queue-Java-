@@ -1,3 +1,5 @@
+//Implementation of circular queue using array
+
 public class CircularQueue{
     private int front;
     private int rear;
